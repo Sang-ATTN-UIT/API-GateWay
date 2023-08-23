@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T00:38:41.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="7SBDrFIJbsZojzNTdSNC" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T00:40:15.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="nVz7G1xT-6piieTbxMCz" version="21.6.8" type="github">
   <diagram name="Trang-1" id="a93HQ-2Yhv1V-fkxgcoa">
     <mxGraphModel dx="1533" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -478,10 +478,10 @@
             <mxPoint x="433" y="1920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O257Oi1oZqPcb4Y1kmJl-14" value="IDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O257Oi1oZqPcb4Y1kmJl-14" value="IDM - SIEM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O257Oi1oZqPcb4Y1kmJl-15" value="LDAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O257Oi1oZqPcb4Y1kmJl-15" value="LDAP - LoadBC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536.5" y="2030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O257Oi1oZqPcb4Y1kmJl-16" value="Authentication: OAuth2 clientID, OpenID, API Key&#xa;management," style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
