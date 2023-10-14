@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T04:24:56.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="tGoXeXCHlJEvqNQz2zwi" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T06:15:57.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="zty2AHY-VPe02kZxH1gy" version="22.0.4" type="github">
   <diagram name="Page-1" id="WYY53Z1zAFCPwxraEC31">
     <mxGraphModel dx="2641" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,75 @@
         </mxCell>
         <mxCell id="mjSZJ3vKfWDj_ts2oReT-46" value="CLOUD ENVIRONMENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="414" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-48" value="Revice Metric and Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="132" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-49" value="Feature Extraction and Selectio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="260.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-50" value="Pre-Processing data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-51" value="Detection Algorithms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="505.1" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-52" value="Identification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="633.35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-53" value="Decision" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="763.1" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-54" value="Visualization and Analysis&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-55" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mjSZJ3vKfWDj_ts2oReT-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="200" as="sourcePoint" />
+            <mxPoint x="1550" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379.41" y="320.25" as="sourcePoint" />
+            <mxPoint x="1379.41" y="380.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379.41" y="450" as="sourcePoint" />
+            <mxPoint x="1379.41" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379.41" y="565.1" as="sourcePoint" />
+            <mxPoint x="1379.41" y="625.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-59" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1379.41" y="694.1" as="sourcePoint" />
+            <mxPoint x="1379.41" y="754.1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mjSZJ3vKfWDj_ts2oReT-51" target="mjSZJ3vKfWDj_ts2oReT-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="525" as="sourcePoint" />
+            <mxPoint x="1280" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-61" value="Log API&lt;br&gt;Data&amp;nbsp;&lt;br&gt;Payload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="132" width="110" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-62" value="CPU Using&lt;br&gt;Rate request&lt;br&gt;Memory cost&lt;br&gt;Data respone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="260.25" width="110" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-63" value="Data Standardization&amp;nbsp;&lt;br&gt;Data normalization&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1457.5" y="390" width="152.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjSZJ3vKfWDj_ts2oReT-64" value="- Data Density (AD3)&lt;br&gt;&lt;span style=&quot;background-color: white; color: rgb(51, 51, 51); text-indent: -7.1pt;&quot;&gt;- API Traffic Anomaly Detection (API-TAD)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="515" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
