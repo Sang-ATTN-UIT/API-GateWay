@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T18:54:39.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="BiofIblZkJld4_YwngN8" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T19:14:29.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="P-iHYl7UjZywkXrGYt_T" version="24.2.1" type="github">
   <diagram name="Page-1" id="UMn9NgwjwvaUy-2SpcIn">
-    <mxGraphModel dx="4931" dy="2123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6220" dy="2563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1278,34 +1278,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-118" value="Capture Log&lt;br&gt;API Traffic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2730" y="2140" width="200" height="60" as="geometry" />
+          <mxGeometry x="-2330" y="2133" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14Hxv5Df84lt4skrSm5c-120" target="14Hxv5Df84lt4skrSm5c-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-120" value="Modules AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2730" y="2320" width="200" height="60" as="geometry" />
+          <mxGeometry x="-2330" y="2313" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.473;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14Hxv5Df84lt4skrSm5c-121" target="14Hxv5Df84lt4skrSm5c-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2230" y="3120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2630" y="3190" />
+              <mxPoint x="-2240" y="3190" />
               <mxPoint x="-1478" y="3190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-121" value="Modules Action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2730" y="2550" width="200" height="60" as="geometry" />
+          <mxGeometry x="-2330" y="2543" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-127" value="- Xử lý hệ thống log&#xa;- Xử lý các thành phần để tạo dataset đưa vào Detect&#xa;- Lưu trữ theo cặp request - respone tương ứng" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-3120" y="2140" width="361" height="60" as="geometry" />
+          <mxGeometry x="-2720" y="2133" width="361" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-128" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Kết quả traninig từ dataset có chọn lọc&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Dự đoán kết quả từ log thu thập được theo thời gian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- xử lý kết quả&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-3120" y="2320" width="361" height="60" as="geometry" />
+          <mxGeometry x="-2720" y="2313" width="361" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-129" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- thực hiện các yêu cầu dựa trên kết quả của module AI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Ghi nhận và thông báo đến hệ thống log&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-3020" y="2550" width="280" height="60" as="geometry" />
+          <mxGeometry x="-2620" y="2543" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14Hxv5Df84lt4skrSm5c-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="14Hxv5Df84lt4skrSm5c-130" target="14Hxv5Df84lt4skrSm5c-131">
           <mxGeometry relative="1" as="geometry" />
