@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T17:25:42.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="zT4kBpNJfwhhvQY6NL7A" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T17:29:29.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="1vO2cyMJKB3RlmdtCRLA" version="24.2.5" type="github">
   <diagram name="Page-1" id="UMn9NgwjwvaUy-2SpcIn">
     <mxGraphModel dx="6776" dy="2235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2560,15 +2560,6 @@
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-173" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 90%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 24px;&quot;&gt;HTTPs Endpoint&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 104%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;Làm sao triển khai được?&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Key là của resouces hay là của API&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;- Kết quả thu thập được dạng gì?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=3;" parent="Gxfs5f6OXgoJ79gs_djs-87" vertex="1">
           <mxGeometry x="-114" y="464" width="324.78" height="163" as="geometry" />
         </mxCell>
-        <mxCell id="Gxfs5f6OXgoJ79gs_djs-181" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
-          <mxGeometry x="4760" y="1260" width="82" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="Gxfs5f6OXgoJ79gs_djs-182" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
-          <mxGeometry x="4903" y="1258" width="82" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="Gxfs5f6OXgoJ79gs_djs-183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
-          <mxGeometry x="5039" y="1256.07" width="82" height="82" as="geometry" />
-        </mxCell>
         <UserObject label="#!/bin/sh&#xa;&#xa;&#xa;# Variables&#xa;INTERFACE=&quot;eth0&quot;&#xa;PCAP_FILE=&quot;/path/to/output.pcap&quot;&#xa;KEY_FILE=&quot;/path/to/server.key&quot;&#xa;&#xa;&#xa;# Capture the network traffic with tcpdump&#xa;/usr/sbin/tcpdump -i $INTERFACE -s 0 -w $PCAP_FILE &#39;tcp port 443&#39;&#xa;&#xa;&#xa;# Use ssldump to decrypt the traffic&#xa;/usr/bin/ssldump -r $PCAP_FILE -k $KEY_FILE -d &gt; /path/to/decrypted_traffic.txt" link="#!/bin/sh&#xa;&#xa;&#xa;# Variables&#xa;INTERFACE=&quot;eth0&quot;&#xa;PCAP_FILE=&quot;/path/to/output.pcap&quot;&#xa;KEY_FILE=&quot;/path/to/server.key&quot;&#xa;&#xa;&#xa;# Capture the network traffic with tcpdump&#xa;/usr/sbin/tcpdump -i $INTERFACE -s 0 -w $PCAP_FILE &#39;tcp port 443&#39;&#xa;&#xa;&#xa;# Use ssldump to decrypt the traffic&#xa;/usr/bin/ssldump -r $PCAP_FILE -k $KEY_FILE -d &gt; /path/to/decrypted_traffic.txt" id="Gxfs5f6OXgoJ79gs_djs-184">
           <mxCell style="text;whiteSpace=wrap;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
             <mxGeometry x="3177.995656912669" y="2290.004710867746" width="550" height="310" as="geometry" />
@@ -2578,7 +2569,7 @@
           <mxGeometry x="4024.9976470588235" y="531.0047058823532" width="91" height="39" as="geometry" />
         </mxCell>
         <mxCell id="QF7cJt-qXqM8u21EDfJR-0" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
-          <mxGeometry x="4373" y="981" width="180" height="200" as="geometry" />
+          <mxGeometry x="4302" y="1104" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-175" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-0" vertex="1">
           <mxGeometry x="38" width="45.6" height="61.800000000000004" as="geometry" />
@@ -2614,7 +2605,7 @@
           <mxGeometry y="88" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QF7cJt-qXqM8u21EDfJR-3" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
-          <mxGeometry x="4821" y="1092" width="276" height="197" as="geometry" />
+          <mxGeometry x="4826" y="1244" width="276" height="197" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-177" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-3" vertex="1">
           <mxGeometry x="107.5" width="45.6" height="61.800000000000004" as="geometry" />
@@ -2632,10 +2623,40 @@
           <mxGeometry x="5006" y="592" width="244" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QF7cJt-qXqM8u21EDfJR-10" value="Module Session access" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
-          <mxGeometry x="5011" y="666" width="244" height="60" as="geometry" />
+          <mxGeometry x="5010" y="667" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-11" value="Checking and validation the HTTPs request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-11" value="Load balacing the request to resouces" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
           <mxGeometry x="4620" y="737" width="244" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="Gxfs5f6OXgoJ79gs_djs-179">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="4764" y="1164" as="sourcePoint" />
+            <mxPoint x="4769" y="1026" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-13" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+          <mxGeometry x="4764" y="1408" width="361" height="85.93000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxfs5f6OXgoJ79gs_djs-181" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="QF7cJt-qXqM8u21EDfJR-13" vertex="1">
+          <mxGeometry y="3.9300000000000637" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxfs5f6OXgoJ79gs_djs-182" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="QF7cJt-qXqM8u21EDfJR-13" vertex="1">
+          <mxGeometry x="143" y="1.9300000000000637" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="Gxfs5f6OXgoJ79gs_djs-183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="QF7cJt-qXqM8u21EDfJR-13" vertex="1">
+          <mxGeometry x="279" width="82" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="xXLmH_7GJlPJiO3qkF_f-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="5053" y="1168" as="sourcePoint" />
+            <mxPoint x="4765" y="1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.136;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" source="Gxfs5f6OXgoJ79gs_djs-180">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="4774" y="1174" as="sourcePoint" />
+            <mxPoint x="4843" y="1176" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
