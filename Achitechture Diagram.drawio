@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T17:40:53.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WrDtXmzWBSNhPbToM_XM" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T04:19:28.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ejdn-ORjCK5NrNjwkyu0" version="24.2.5" type="github">
   <diagram name="Page-1" id="UMn9NgwjwvaUy-2SpcIn">
-    <mxGraphModel dx="6776" dy="2235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6247" dy="1924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="SCb9B_5f1ztIZIJHBHVb-7" value="Untitled Layer" style="" parent="0" />
@@ -2565,7 +2565,7 @@
             <mxGeometry x="3177.995656912669" y="2290.004710867746" width="550" height="310" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-0" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-0" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
           <mxGeometry x="4285" y="1108.07" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-175" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-0" vertex="1">
@@ -2574,17 +2574,17 @@
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-178" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Master Node&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QF7cJt-qXqM8u21EDfJR-0" vertex="1">
           <mxGeometry y="76.06999999999994" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-8" value="Control and configure the K8s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QF7cJt-qXqM8u21EDfJR-0">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-8" value="Control and configure the K8s" style="rounded=1;whiteSpace=wrap;html=1;" parent="QF7cJt-qXqM8u21EDfJR-0" vertex="1">
           <mxGeometry x="-11" y="123" width="184" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=11;entryX=0.112;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="QF7cJt-qXqM8u21EDfJR-0" target="QF7cJt-qXqM8u21EDfJR-21">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-9" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=11;entryX=0.112;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endFill=1;" parent="QF7cJt-qXqM8u21EDfJR-0" target="QF7cJt-qXqM8u21EDfJR-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="161" y="73" as="sourcePoint" />
             <mxPoint x="815" y="69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-1" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
-          <mxGeometry x="4720" y="815" width="180" height="197" as="geometry" />
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-1" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
+          <mxGeometry x="4525" y="818" width="225.0007385971967" height="214.0024112477024" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-176" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-1" vertex="1">
           <mxGeometry x="61" width="45.6" height="61.800000000000004" as="geometry" />
@@ -2592,7 +2592,12 @@
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-179" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Worker Node&lt;/h1&gt;&lt;p&gt;Deploy the loadbalacing and validation modules&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QF7cJt-qXqM8u21EDfJR-1" vertex="1">
           <mxGeometry y="77" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-2" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <UserObject label="{&#xa;  &quot;remote-addr&quot;: &quot;192.168.216.1&quot;&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:44:30 +0700&quot;,&#xa;  &quot;method&quot;: &quot;POST&quot;,&#xa;  &quot;url&quot;: &quot;/api/user_info&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;201&quot;,&#xa;  &quot;content-length&quot;: &quot;5678&quot;,&#xa;  &quot;referrer&quot;: &quot;https://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;content-length&quot;: &quot;154&quot;,&#xa;    &quot;content-type&quot;: &quot;application/json&quot;,&#xa;    &quot;accept&quot;: &quot;application/json&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;body&quot;: {&#xa;      &quot;name&quot;: &quot;Test&quot;,&#xa;      &quot;email&quot;: &quot;abc@test.com&quot;&#xa;    }&#xa;  }&#xa;}" link="{&#xa;  &quot;remote-addr&quot;: &quot;123.45.67.89&quot;,&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:14:00 +0700&quot;,&#xa;  &quot;method&quot;: &quot;POST&quot;,&#xa;  &quot;url&quot;: &quot;/api/user_info&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;201&quot;,&#xa;  &quot;content-length&quot;: &quot;5678&quot;,&#xa;  &quot;referrer&quot;: &quot;https://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;content-length&quot;: &quot;154&quot;,&#xa;    &quot;content-type&quot;: &quot;application/json&quot;,&#xa;    &quot;accept&quot;: &quot;application/json&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;body&quot;: {&#xa;      &quot;name&quot;: &quot;John Doe&quot;,&#xa;      &quot;email&quot;: &quot;john.doe@example.com&quot;&#xa;    }&#xa;  }&#xa;}" id="QF7cJt-qXqM8u21EDfJR-43">
+          <mxCell style="text;whiteSpace=wrap;" parent="QF7cJt-qXqM8u21EDfJR-1" vertex="1">
+            <mxGeometry x="-324.9992614028033" y="-311.9975887522976" width="550" height="526" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-2" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
           <mxGeometry x="5036.3" y="805" width="180" height="208" as="geometry" />
         </mxCell>
         <mxCell id="xXLmH_7GJlPJiO3qkF_f-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-2" vertex="1">
@@ -2601,7 +2606,7 @@
         <mxCell id="xXLmH_7GJlPJiO3qkF_f-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Worker Node&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Deploy the machine learning&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QF7cJt-qXqM8u21EDfJR-2" vertex="1">
           <mxGeometry y="88" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-3" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-3" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
           <mxGeometry x="4826" y="1244" width="276" height="197" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-177" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-3" vertex="1">
@@ -2610,28 +2615,28 @@
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-180" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Worker Node&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Deploy container for resoucesing&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QF7cJt-qXqM8u21EDfJR-3" vertex="1">
           <mxGeometry y="77" width="276" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-5" value="Proxy for capture HTTPs request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-5" value="Proxy for capture HTTPs request" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4618" y="590" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-6" value="Checking and validation the HTTPs request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-6" value="Checking and validation the HTTPs request" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4618" y="663" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-7" value="Module Authen - Author" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-7" value="Module Authen - Author" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5009" y="631" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-10" value="Module Session access" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-10" value="Module Session access" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5006" y="710" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-11" value="Load balacing the request to resouces" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-11" value="Load balacing the request to resouces" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4620" y="737" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="Gxfs5f6OXgoJ79gs_djs-179">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="SCb9B_5f1ztIZIJHBHVb-7" target="Gxfs5f6OXgoJ79gs_djs-179" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="4764" y="1164" as="sourcePoint" />
             <mxPoint x="4769" y="1026" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-13" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-13" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
           <mxGeometry x="4676" y="1411.14" width="527" height="85.93" as="geometry" />
         </mxCell>
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-181" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="QF7cJt-qXqM8u21EDfJR-13" vertex="1">
@@ -2643,93 +2648,88 @@
         <mxCell id="Gxfs5f6OXgoJ79gs_djs-183" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/social-media-2104/24/social_media_social_media_logo_docker-128.png" parent="QF7cJt-qXqM8u21EDfJR-13" vertex="1">
           <mxGeometry x="407.2936288088643" width="81.99999999999994" height="81.99999999999994" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="xXLmH_7GJlPJiO3qkF_f-2">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;" parent="SCb9B_5f1ztIZIJHBHVb-7" target="xXLmH_7GJlPJiO3qkF_f-2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="5053" y="1168" as="sourcePoint" />
             <mxPoint x="4765" y="1025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.136;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#000000;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" source="Gxfs5f6OXgoJ79gs_djs-180">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.136;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#000000;" parent="SCb9B_5f1ztIZIJHBHVb-7" source="Gxfs5f6OXgoJ79gs_djs-180" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="4774" y="1174" as="sourcePoint" />
             <mxPoint x="4843" y="1176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-18" value="Deep learning model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-18" value="Deep learning model" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5545" y="1101" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-19" value="" style="group" vertex="1" connectable="0" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-19" value="" style="group" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1" connectable="0">
           <mxGeometry x="5229" y="1083" width="180" height="208" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-20" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="QF7cJt-qXqM8u21EDfJR-19">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-20" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="QF7cJt-qXqM8u21EDfJR-19" vertex="1">
           <mxGeometry x="60.69999999999982" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Worker Node&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Deploy the machine learning&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="QF7cJt-qXqM8u21EDfJR-19">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Worker Node&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Deploy the machine learning&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="QF7cJt-qXqM8u21EDfJR-19" vertex="1">
           <mxGeometry y="88" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-23" value="Dataset centralize and clearing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-23" value="Dataset centralize and clearing" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5209" y="1008" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-25" value="Retrainig for deep learning model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-25" value="Retrainig for deep learning model" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5534" y="884" width="244" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="SCb9B_5f1ztIZIJHBHVb-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5485" y="994" as="sourcePoint" />
             <mxPoint x="5535" y="944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" source="QF7cJt-qXqM8u21EDfJR-25">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="SCb9B_5f1ztIZIJHBHVb-7" source="QF7cJt-qXqM8u21EDfJR-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5495" y="1004" as="sourcePoint" />
             <mxPoint x="5656" y="1092" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.443;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" source="QF7cJt-qXqM8u21EDfJR-18">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.443;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="SCb9B_5f1ztIZIJHBHVb-7" source="QF7cJt-qXqM8u21EDfJR-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5648" y="1184.07" as="sourcePoint" />
             <mxPoint x="5653" y="1278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-32" value="Acction module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-32" value="Acction module" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5531" y="1288" width="262" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="QF7cJt-qXqM8u21EDfJR-21">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="SCb9B_5f1ztIZIJHBHVb-7" target="QF7cJt-qXqM8u21EDfJR-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5522" y="1324" as="sourcePoint" />
             <mxPoint x="5441" y="1339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-35" value="Font end app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-35" value="Font end app" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4638" y="1512" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-36" value="Back-end of app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-36" value="Back-end of app" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4855" y="1512" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-37" value="Data base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-37" value="Data base" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="5056" y="1517.07" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-38" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-38" value="Services" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4574" y="1586" width="238" height="32.07" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-39" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-39" value="Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4584.27" y="1706" width="217.46" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.453;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SCb9B_5f1ztIZIJHBHVb-7" target="QF7cJt-qXqM8u21EDfJR-38">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.453;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="SCb9B_5f1ztIZIJHBHVb-7" target="QF7cJt-qXqM8u21EDfJR-38" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="4682" y="1701" as="sourcePoint" />
             <mxPoint x="4731" y="1615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-42" value="{&#xa;  &quot;remote-addr&quot;: &quot;192.168.216.1&quot;&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:14:12 +0700&quot;,&#xa;  &quot;method&quot;: &quot;GET&quot;,&#xa;  &quot;url&quot;: &quot;/api/data&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;200&quot;,&#xa;  &quot;content-length&quot;: &quot;1234&quot;,&#xa;  &quot;referrer&quot;: &quot;http://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;cache-control&quot;: &quot;max-age=0&quot;,&#xa;    &quot;upgrade-insecure-requests&quot;: &quot;1&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&quot;,&#xa;    &quot;accept-encoding&quot;: &quot;gzip, deflate, sdch, br&quot;,&#xa;    &quot;accept-language&quot;: &quot;en-US,en;q=0.8&quot;&#xa;  }&#xa;}" style="text;whiteSpace=wrap;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
-          <mxGeometry x="4170.996813964844" y="143.99751235064332" width="550" height="508" as="geometry" />
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-42" value="{&#xa;  &quot;remote-addr&quot;: &quot;192.168.216.1&quot;&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:14:12 +0700&quot;,&#xa;  &quot;method&quot;: &quot;GET&quot;,&#xa;  &quot;url&quot;: &quot;/api/data&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;200&quot;,&#xa;  &quot;content-length&quot;: &quot;1234&quot;,&#xa;  &quot;referrer&quot;: &quot;http://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;cache-control&quot;: &quot;max-age=0&quot;,&#xa;    &quot;upgrade-insecure-requests&quot;: &quot;1&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&quot;,&#xa;    &quot;accept-encoding&quot;: &quot;gzip, deflate, sdch, br&quot;,&#xa;    &quot;accept-language&quot;: &quot;en-US,en;q=0.8&quot;&#xa;  }&#xa;}" style="text;whiteSpace=wrap;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
+          <mxGeometry x="4137.996813964844" y="17.99751235064332" width="550" height="508" as="geometry" />
         </mxCell>
-        <UserObject label="{&#xa;  &quot;remote-addr&quot;: &quot;192.168.216.1&quot;&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:44:30 +0700&quot;,&#xa;  &quot;method&quot;: &quot;POST&quot;,&#xa;  &quot;url&quot;: &quot;/api/user_info&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;201&quot;,&#xa;  &quot;content-length&quot;: &quot;5678&quot;,&#xa;  &quot;referrer&quot;: &quot;https://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;content-length&quot;: &quot;154&quot;,&#xa;    &quot;content-type&quot;: &quot;application/json&quot;,&#xa;    &quot;accept&quot;: &quot;application/json&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;body&quot;: {&#xa;      &quot;name&quot;: &quot;Test&quot;,&#xa;      &quot;email&quot;: &quot;abc@test.com&quot;&#xa;    }&#xa;  }&#xa;}" link="{&#xa;  &quot;remote-addr&quot;: &quot;123.45.67.89&quot;,&#xa;  &quot;remote-user&quot;: &quot;-&quot;,&#xa;  &quot;date&quot;: &quot;19/Apr/2024:16:14:00 +0700&quot;,&#xa;  &quot;method&quot;: &quot;POST&quot;,&#xa;  &quot;url&quot;: &quot;/api/user_info&quot;,&#xa;  &quot;http-version&quot;: &quot;1.1&quot;,&#xa;  &quot;status&quot;: &quot;201&quot;,&#xa;  &quot;content-length&quot;: &quot;5678&quot;,&#xa;  &quot;referrer&quot;: &quot;https://localhost:8000/&quot;,&#xa;  &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;  &quot;req&quot;: {&#xa;    &quot;host&quot;: &quot;localhost:8000&quot;,&#xa;    &quot;connection&quot;: &quot;keep-alive&quot;,&#xa;    &quot;content-length&quot;: &quot;154&quot;,&#xa;    &quot;content-type&quot;: &quot;application/json&quot;,&#xa;    &quot;accept&quot;: &quot;application/json&quot;,&#xa;    &quot;user-agent&quot;: &quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3&quot;,&#xa;    &quot;body&quot;: {&#xa;      &quot;name&quot;: &quot;John Doe&quot;,&#xa;      &quot;email&quot;: &quot;john.doe@example.com&quot;&#xa;    }&#xa;  }&#xa;}" id="QF7cJt-qXqM8u21EDfJR-43">
-          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
-            <mxGeometry x="4144.000738597197" y="616.0024112477024" width="550" height="526" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="QF7cJt-qXqM8u21EDfJR-45" value="Store and make cert + key" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SCb9B_5f1ztIZIJHBHVb-7">
+        <mxCell id="QF7cJt-qXqM8u21EDfJR-45" value="Store and make cert + key" style="rounded=1;whiteSpace=wrap;html=1;" parent="SCb9B_5f1ztIZIJHBHVb-7" vertex="1">
           <mxGeometry x="4274" y="1310" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
